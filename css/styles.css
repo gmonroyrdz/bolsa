@@ -48,3 +48,23 @@ footer{
     transition: transform 0.2s, box-shadow 0.2s;
     box-shadow: 0 2px 4px rgba(0,0,0,0.02);
 }
+
+.vacancies-card h3{
+    margin-bottom: 8px;
+    color: #2c3e50;
+}
+
+.vacancies-card .company{
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    margin-bottom: 10px;
+}
+
+.vacancies-card .description{
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+
